@@ -5,7 +5,7 @@ next use git push command to push the code into the cloud or the repository
 
 next use git pull command to update even if somone have already worked on ur repo and this pull will make ur file updated
 
-next we are to see about status
+next we are to see about status use git status command
 this tells about the status whether the file is in staging or untracked or it has already been pushed in the cloud or repo
 
 next git branch this will tell about the current branch we are working
@@ -13,3 +13,10 @@ next git branch this will tell about the current branch we are working
 next to create a new branch use git checkout -b branchname
 
 to change the branch use git checkout old branch name or branch name
+
+
+
+origin is the clone url 
+
+note:::::: whenever u are making a change in local syatem or in cloud or repo it is very important to first add and commit and push 
+otherwise the changes will not be saved in git
