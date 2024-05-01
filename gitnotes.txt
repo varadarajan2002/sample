@@ -19,4 +19,5 @@ to change the branch use git checkout old branch name or branch name
 origin is the clone url 
 
 note:::::: whenever u are making a change in local syatem or in cloud or repo it is very important to first add and commit and push 
-otherwise the changes will not be saved in git
+otherwise the changes will not be saved in gitnext merge conflict
+nothing
