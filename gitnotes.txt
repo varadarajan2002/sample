@@ -1,4 +1,15 @@
 create repository 
 ensure you are using proper syntax like inoder to add a file u have to use git add .\filename.txt
 next use git commit inoder to push the code into the staging area and that file will get tracked
-next use git push command to push the code into the cloud or the repository
+next use git push command to push the code into the cloud or the repository 
+
+next use git pull command to update even if somone have already worked on ur repo and this pull will make ur file updated
+
+next we are to see about status
+this tells about the status whether the file is in staging or untracked or it has already been pushed in the cloud or repo
+
+next git branch this will tell about the current branch we are working
+
+next to create a new branch use git checkout -b branchname
+
+to change the branch use git checkout old branch name or branch name
