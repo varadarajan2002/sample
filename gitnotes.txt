@@ -26,3 +26,4 @@ git stash pop is used to retrive the previously deleted file
 
 git log command is used to show the number of commits and what kind of commits u have done
 thankyou!!!
+therefore this is the complete tutorial notes for git in reference hareesh in youtube for github
