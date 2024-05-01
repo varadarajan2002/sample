@@ -1,1 +1,2 @@
-create repository
+create repository 
+ensure you are using proper syntax like inoder to add a file u have to use git add .\filename.txt
