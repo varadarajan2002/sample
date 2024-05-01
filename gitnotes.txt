@@ -1,2 +1,4 @@
 create repository 
 ensure you are using proper syntax like inoder to add a file u have to use git add .\filename.txt
+next use git commit inoder to push the code into the staging area and that file will get tracked
+next use git push command to push the code into the cloud or the repository
