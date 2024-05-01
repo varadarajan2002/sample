@@ -20,3 +20,9 @@ origin is the clone url
 
 note:::::: whenever u are making a change in local syatem or in cloud or repo it is very important to first add and commit and push 
 otherwise the changes will not be saved in git
+
+git stash command is used to delete it works like a recycle bin
+git stash pop is used to retrive the previously deleted file
+
+git log command is used to show the number of commits and what kind of commits u have done
+thankyou!!!
